@@ -27,4 +27,4 @@ http://maps.google.com/maps?f=q&hl=en&geocode=&q=40.30198,-77.08685&ll=40.30198,
 SPOT contact list.
 
  Ready for Adventure
- FindMeSPOT.com
+ FindMeSPOT.com 
